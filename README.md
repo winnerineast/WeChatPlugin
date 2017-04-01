@@ -10,14 +10,17 @@ Plugin For Mac WeChat.
 * 支持版本: 2.2.1
 * 确保存在[insert_dylib](https://github.com/Tyilo/insert_dylib)命令或者自行修改`WeChat`target中Run Script对应注入动态库脚本
 * 执行`Pod install`, 将WeChat.app放置在工程目录下
+* open WeChatPlugin.xcworkspace, command + R
 
 ## 功能
 * 自动登录
 * 浏览主页
 * 浏览朋友圈
 * 查看动态详情
+* 预览小程序消息
 
 ## 效果图
 ![朋友圈](http://alayshchen.github.io/images/201703290.png)
 ![主页](http://alayshchen.github.io/images/201703291.png)
 ![详情](http://alayshchen.github.io/images/201703292.png)
+![小程序消息](http://alayshchen.github.io/images/201704010.jpeg)
